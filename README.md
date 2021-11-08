@@ -13,8 +13,12 @@ Eğer bilgisayarınızda git kuruluysa aşağıdaki kod ile repoyu klonlayabilir
 `git clone https://github.com/eray23/kodluyoruzilkrepo.git`
 
 ## Usage 
-Projemizi klonladıktan sonra komut istemini açarak `cd [repoyu klonladığınız dizin]`
-`code .` yazarsanız projeyi visual studio code programında açabilirsiniz.
+Projemizi klonladıktan sonra komut istemini açarak
+
+`cd [repoyu klonladığınız dizin]`
+`code .` 
+
+yazarsanız projeyi visual studio code programında açabilirsiniz.
 
 ## Contributing
 Pull requestler kabul edilebilir.

@@ -9,6 +9,7 @@ Bu repo [Patika.dev](https://www.patika.dev/) sitesindeki **Git** ödevi için o
 ## Installation
 
 Eğer bilgisayarınızda git kuruluysa aşağıdaki kod ile repoyu klonlayabilirsiniz
+
 `git clone https://github.com/eray23/kodluyoruzilkrepo.git`
 
 ## Usage 
